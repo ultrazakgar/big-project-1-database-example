@@ -1,1 +1,0 @@
-# big-project-1-database-example
